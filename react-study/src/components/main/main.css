@@ -1,0 +1,20 @@
+.main h2,
+.main h3 {
+    text-align: center;
+}
+
+.main .text-bold {
+    font-weight: bold;
+}
+
+.main .text-red {
+    color: red;
+}
+
+.main .text-italic {
+    font-style: italic;
+}
+
+.main .text-through {
+    text-decoration: line-through;
+}

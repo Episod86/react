@@ -1,3 +1,23 @@
-.header {
-    color: rgb(2, 0, 128);
+.header h2 {
+    text-align: center;
+}
+
+.header .header-text {
+    font-size: 12px;
+}
+
+.header .text-bold {
+    font-weight: bold;
+}
+
+.header .text-underline {
+    text-decoration: underline;
+}
+
+.header .text-red {
+    color: red;
+}
+
+.header .text-italic {
+    font-style: italic;
 }
