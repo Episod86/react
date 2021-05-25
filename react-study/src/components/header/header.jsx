@@ -1,11 +1,16 @@
 import React from 'react';
 
-import './header.css'
+import logo from './assets/logo.svg';
+
+import style from './header.module.css';
 
 export class Header extends React.Component {
     render() {
         return (
-            <div className="header">HEADER</div>
+            <div className={style.header}>
+                <img src={logo} alt="картинка" className={style.logo} />
+                HEADER
+            </div>
         )
     }
 };
