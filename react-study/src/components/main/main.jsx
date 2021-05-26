@@ -11,6 +11,8 @@ import style from'./main.module.css'
 export const Main = () => (
     <div className={style.main}>
         <ArtFirst />
+
+        
         <ArtSecond />
         
         
