@@ -1,0 +1,12 @@
+.article {
+    background: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+    
+        .a1 { width: calc((100% - 20px) / 2); }
+        
+        .a2 { width: calc((100% - 40px) / 3); }
+        
+        
