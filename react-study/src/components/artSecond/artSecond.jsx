@@ -1,7 +1,7 @@
 import React from 'react';
 import { Article } from '../article';
 
-import style from './artSecond.module.css'
+import style from './artSecond.module.css';
 
 export class ArtSecond extends React.Component {
     render() {

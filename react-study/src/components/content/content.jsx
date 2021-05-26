@@ -1,7 +1,7 @@
 import React from 'react';
 import { Aside } from '../aside';
 
-import style from './content.module.css'
+import style from './content.module.css';
 
 export class Content extends React.Component {
     render() {
