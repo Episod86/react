@@ -2,11 +2,8 @@
     background: aqua;
     display: flex;
     justify-content: center;
+    width: 100%;
+    margin: 0 10px;
 }
-
-    
-        .a1 { width: calc((100% - 20px) / 2); }
-        
-        .a2 { width: calc((100% - 40px) / 3); }
         
         

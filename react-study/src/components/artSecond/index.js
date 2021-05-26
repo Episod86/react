@@ -1,0 +1,1 @@
+export { ArtSecond } from './artSecond';

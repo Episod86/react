@@ -4,17 +4,3 @@
     flex-direction: column;
     margin: 10px 5px;
 }
-
-.art {
-    display: flex;
-    justify-content: space-between;
-    flex: 1 1 100px;
-}
-
-.content {
-    max-width: 1000px;
-    display: flex;
-    justify-content: space-between;
-    flex: 2 1 100px;
-    padding: 20px 0;
-}
