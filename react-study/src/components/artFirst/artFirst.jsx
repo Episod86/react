@@ -6,7 +6,7 @@ import style from './artFirst.module.css'
 export class ArtFirst extends React.Component {
     render() {
         return (
-            <div className={style.ArtFirst}>  
+            <div className={style.artFirst}>  
                 <Article />
                 <Article />
             </div>

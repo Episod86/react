@@ -1,0 +1,7 @@
+.aside {
+    display: flex;
+    justify-content: center;
+    flex: 1 0 100px;
+    background: rgb(138, 36, 138);
+    color: white;
+}
